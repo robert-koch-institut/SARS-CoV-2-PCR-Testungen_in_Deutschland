@@ -6,7 +6,7 @@ Seestraße 10
 13353 Berlin  
 
 **Abteilung 3 | Infektionsepidemiologie**  
-Dr. Janna Seifried (Projektleitung)  
+[Dr. Janna Seifried](https://orcid.org/0000-0002-7015-6647) (Projektleitung)  
 
 **Abteilung 1  | Infektionskrankheiten**  
 [Dr. Sindy Böttcher](https://orcid.org/0000-0002-7521-093X) (Datenerhebung)  
