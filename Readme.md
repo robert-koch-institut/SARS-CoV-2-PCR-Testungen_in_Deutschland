@@ -20,7 +20,7 @@ Seestraße 10
 **Fachgebeit MF 4 | Inforamtions- und Forschungsdatenmanagement**   
 [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
 
-Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7550588](https://doi.org/10.5281/zenodo.7550588)
+Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7572737](https://doi.org/10.5281/zenodo.7572737)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
