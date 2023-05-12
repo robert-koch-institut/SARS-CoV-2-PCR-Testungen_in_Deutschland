@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+type: dataset
+title: SARS-CoV-2-PCR-Testungen in Deutschland
+abstract: >-
+  Im Rahmen der Bewältigung der COVID-19-Pandemie spielt die Diagnostik
+  hinsichtlich SARS-CoV-2/COVID-19 eine entscheidende Rolle. Die Bedeutung liegt
+  nicht nur in der diagnostischen Abklärung, sondern hat eine herausragende
+  Stellung auch für die Beurteilung der epidemiologischen Entwicklung und
+  hinsichtlich Strategien zur Verlangsamung des aktuellen Geschehens in
+  Deutschland. Die Erfassung der durchgeführten PCR-Tests sowie die Ermittlung
+  des Anteils der SARS-CoV-2 positiven PCR-Tests ermöglichen eine Einschätzung
+  zur Wirksamkeit der Maßnahmen und der Umsetzung der Teststrategie. Vor diesem
+  Hintergrund werden im Datensatz an das RKI übermittelte Daten zu
+  PCR-Testungen, PCR-Testergebnissen und Testkapazitäten in Deutschland als
+  offene Daten bereitgestellt.
+date-released: '2023-05-11'
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Nucleic Acid Testing
+  - Nukleinsaeurenachweis
+  - COVID-19 RT-PCR-Test
+  - COVID-19 RT-PCR Testing
+  - PCR
+  - Testkapazitaeten
+  - Testing capacities
+  - Deutschland
+  - Germany
+  - Open Data
+  - RKI
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
+message: Cite me!
+url: ''
+license: CC-BY-4.0
+doi: 10.5281/zenodo.7930215
+authors:
+  - name: Robert Koch-Institut

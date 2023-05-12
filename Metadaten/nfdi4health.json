@@ -1,0 +1,241 @@
+{
+  "data": {
+    "type": "studyhub_resources",
+    "attributes": {
+      "commit_button": "Submit",
+      "content_blobs": [
+        {
+          "content_type": "text/html",
+          "url": "https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland",
+          "original_filename": "Github Link"
+        }
+      ],
+      "resource": {
+        "resource_type": "Dataset",
+        "resource_type_general": "Dataset",
+        "resource_titles": [
+          {
+            "title": "SARS-CoV-2-PCR-Testungen in Deutschland",
+            "title_language": "DE (German)"
+          }
+        ],
+        "resource_acronyms": [],
+        "resource_descriptions": [
+          {
+            "description": "Im Rahmen der Bewältigung der COVID-19-Pandemie spielt die Diagnostik hinsichtlich SARS-CoV-2/COVID-19 eine entscheidende Rolle. Die Bedeutung liegt nicht nur in der diagnostischen Abklärung, sondern hat eine herausragende Stellung auch für die Beurteilung der epidemiologischen Entwicklung und hinsichtlich Strategien zur Verlangsamung des aktuellen Geschehens in Deutschland. Die Erfassung der durchgeführten PCR-Tests sowie die Ermittlung des Anteils der SARS-CoV-2 positiven PCR-Tests ermöglichen eine Einschätzung zur Wirksamkeit der Maßnahmen und der Umsetzung der Teststrategie. Vor diesem Hintergrund werden im Datensatz an das RKI übermittelte Daten zu PCR-Testungen, PCR-Testergebnissen und Testkapazitäten in Deutschland als offene Daten bereitgestellt.",
+            "description_language": "DE (German)"
+          }
+        ],
+        "resource_format": "",
+        "resource_keywords": [
+          {
+            "resource_keywords_label": "COVID-19",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "SARS-CoV-2",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Nucleic Acid Testing",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Nukleinsaeurenachweis",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "COVID-19 RT-PCR-Test",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "COVID-19 RT-PCR Testing",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "PCR",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Testkapazitaeten",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Testing capacities",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Deutschland",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Germany",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Open Data",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "RKI",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Gesundheitsberichterstattung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiologie",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Public health surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiology",
+            "resource_keywords_label_code": ""
+          }
+        ],
+        "resource_language": [
+          "DE (German)"
+        ],
+        "resource_version": "2023-05-11",
+        "resource_web_page": "https://",
+        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
+        "resource_use_rights_description": "",
+        "resource_use_rights_authors_confirmation_1": true,
+        "resource_use_rights_authors_confirmation_2": true,
+        "resource_use_rights_authors_confirmation_3": true,
+        "resource_use_rights_support_by_licencing": true,
+        "provenance": {
+          "data_source": ""
+        },
+        "roles": [
+          {
+            "role_type": "Project leader",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Janna",
+            "role_name_personal_family_name": "Seifried",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0002-7015-6647",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Data manager",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Sindy",
+            "role_name_personal_family_name": "Böttcher",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0002-7521-093X",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Data manager",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Daniel",
+            "role_name_personal_family_name": "Stern",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0001-9057-4283",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Data manager",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Stefan",
+            "role_name_personal_family_name": "Albrecht",
+            "role_name_identifiers": []
+          },
+          {
+            "role_type": "Data curator",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Hannes",
+            "role_name_personal_family_name": "Wuensche",
+            "role_name_identifiers": [
+              {
+                "role_name_identifier": "0000-0002-8837-0326",
+                "role_name_identifier_scheme": "ORCID"
+              }
+            ]
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_name": "Robert Koch-Institut",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "Robert Koch-Institut"
+          }
+        ],
+        "ids": [
+          {
+            "id_identifier": "https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland",
+            "id_date": "",
+            "id_type": "URL",
+            "id_relation_type": "describes",
+            "id_resource_type_general": "Dataset"
+          },
+          {
+            "id_identifier": "10.5281/zenodo.7930215",
+            "id_date": "",
+            "id_type": "DOI",
+            "id_relation_type": "has part",
+            "id_resource_type_general": "Dataset"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "projects": {
+        "data": [
+          {
+            "id": "1",
+            "type": "projects"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 Datensatzdokumentation
 # SARS-CoV-2-PCR-Testungen in Deutschland  
 
-Robert Koch-Institut  
+[Robert Koch-Institut](https://rki.de)
 Seestraße 10  
 13353 Berlin  
 
@@ -17,10 +17,14 @@ Seestraße 10
 **Abteilung 2 | Epidemiologie und Gesundheitsmonitoring**  
 [Stefan Albrecht] (Datenerhebung)  
 
-**Fachgebeit MF 4 | Inforamtions- und Forschungsdatenmanagement**   
+**Fachgebeit MF 4 | Fach- und Forschungsdatenmanagement**   
 [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
 
-Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7895725](https://doi.org/10.5281/zenodo.7895725)
+---
+
+**Zitieren**
+
+Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7930215](https://doi.org/10.5281/zenodo.7930215)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
@@ -33,7 +37,7 @@ Zur Erfassung der SARS-CoV-2-Testzahlen werden deutschlandweit Daten von Univers
 
 Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/abt3_node.html) initiiert, Janna Seifried betreut die Erhebung als Projektleitung.  Neben Abteilung 3 sind [Abteilung 1 | Infektionskrankheiten](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt1/abt1_node.html), [Abteilung 2 | Epidemiologie und Gesundheitsmonitoring](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/abt2_node.html) und Fachgebiet [ZBS 3  | Biologische Toxine](https://www.rki.de/DE/Content/Institut/OrgEinheiten/ZBS/ZBS3/zbs3_node.html), als Verantwortliche für die verschiedenen Erfssungssysteme, beteiligt. Ergebnisse aus der Testzahlerfassung werden jeweils im Krisenstab vorgestellt und diskutiert und fließen in die Lagebewertung mit ein. Inhaltiche Fragen zur Testzahlerfssung können an das Funktionspostfach [Testzahlerfassung@rki.de](mailto:Testzahlerfassung@rki.de) gerichtet werden.
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Erhebung und Aufbereitung der Daten  
 #### Gegenstand  

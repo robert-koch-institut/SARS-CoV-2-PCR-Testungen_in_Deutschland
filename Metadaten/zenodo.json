@@ -1,15 +1,6 @@
 {
   "title": "SARS-CoV-2-PCR-Testungen in Deutschland",
   "description": "Im Rahmen der Bewältigung der COVID-19-Pandemie spielt die Diagnostik hinsichtlich SARS-CoV-2/COVID-19 eine entscheidende Rolle. Die Bedeutung liegt nicht nur in der diagnostischen Abklärung, sondern hat eine herausragende Stellung auch für die Beurteilung der epidemiologischen Entwicklung und hinsichtlich Strategien zur Verlangsamung des aktuellen Geschehens in Deutschland. Die Erfassung der durchgeführten PCR-Tests sowie die Ermittlung des Anteils der SARS-CoV-2 positiven PCR-Tests ermöglichen eine Einschätzung zur Wirksamkeit der Maßnahmen und der Umsetzung der Teststrategie. Vor diesem Hintergrund werden im Datensatz an das RKI übermittelte Daten zu PCR-Testungen, PCR-Testergebnissen und Testkapazitäten in Deutschland als offene Daten bereitgestellt.",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "cc-by",
-  "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -20,31 +11,31 @@
     {
       "name": "Seifried, Janna",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-7015-6647",
-      "type": "ProjectLeader"
+      "type": "ProjectLeader",
+      "orcid": "0000-0002-7015-6647"
     },
     {
       "name": "Böttcher, Sindy",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-7521-093X",
-      "type": "DataCollector"
+      "type": "DataManager",
+      "orcid": "0000-0002-7521-093X"
     },
     {
       "name": "Stern, Daniel",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0001-9057-4283",
-      "type": "DataManager"
+      "type": "DataManager",
+      "orcid": "0000-0001-9057-4283"
     },
     {
       "name": "Albrecht, Stefan",
       "affiliation": "Robert Koch-Institut",
-      "type": "DataCollector"
+      "type": "DataManager"
     },
     {
       "name": "Wuensche, Hannes",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-8837-0326",
-      "type": "DataCurator"
+      "type": "DataCurator",
+      "orcid": "0000-0002-8837-0326"
     }
   ],
   "keywords": [
@@ -61,6 +52,17 @@
     "Germany",
     "Open Data",
     "RKI"
+  ],
+  "publication_date": "2023-05-11",
+  "version": "2023-05-11",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
   ],
   "subjects": [
     {
@@ -80,20 +82,21 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2023-05-04T12:00:04+02:00",
-  "version": "2023-05-04",
-  "dates": [
-    {
-      "start": "2020-03-02",
-      "end": "2023-05-04",
-      "type": "Collected"
-    }
-  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland",
       "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/[Dokumentation]_SARS-CoV-2-PCR-Testungen_in_Deutschland.pdf",
+      "resource_type": "publication-report"
     }
   ]
 }
