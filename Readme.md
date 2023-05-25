@@ -24,7 +24,7 @@ Seestraße 10
 
 **Zitieren**
 
-Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7930215](https://doi.org/10.5281/zenodo.7930215)
+Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7969958](https://doi.org/10.5281/zenodo.7969958)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
