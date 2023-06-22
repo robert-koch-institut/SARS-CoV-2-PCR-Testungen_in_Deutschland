@@ -13,7 +13,7 @@ abstract: >-
   Hintergrund werden im Datensatz an das RKI übermittelte Daten zu
   PCR-Testungen, PCR-Testergebnissen und Testkapazitäten in Deutschland als
   offene Daten bereitgestellt.
-date-released: '2023-06-08'
+date-released: '2023-06-22'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -35,6 +35,6 @@ keywords:
 message: Cite me!
 url: ''
 license: CC-BY-4.0
-doi: 10.5281/zenodo.8016954
+doi: 10.5281/zenodo.8069452
 authors:
   - name: Robert Koch-Institut
