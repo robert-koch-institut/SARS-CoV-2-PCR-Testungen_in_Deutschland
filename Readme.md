@@ -122,12 +122,12 @@ Die SARS-CoV-2-PCR-Testungen auf Bundesebene enthalten die in der folgenden Tabe
 |tests_positive|Natürliche Zahl|`≥0`|Anzahl der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen|
 |tests_positive_accumulated|Natürliche Zahl|`≥0`|Anzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-positiven PCR-Testungen|
 |tests_positive_ratio|Rationale Zahl|`≥0.0000`|Anteil der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen an allen der in der zurückliegende Woche gemeldeten SARS-CoV-2-PCR-Testungen|
-|laboratories_tests|Natürliche Zahl|`≥0`|Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben|
-|capacities_daily|Natürliche Zahl|`≥0`|Summe der täglichen PCR-Testkapazitäten aller meldenden Labore|
-|capacities_weekly_theoretically|Natürliche Zahl|`≥0`|Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|capacities_weeklyweek_actually|Natürliche Zahl|`≥0`|Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|laboratories_capacities|Natürliche Zahl|`≥0`|Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|laboratories_samplebacklog|Natürliche Zahl|`≥0`|Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben|
+|laboratories_tests|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben|
+|capacities_daily|Natürliche Zahl|`≥0` und `NA`|Summe der täglichen PCR-Testkapazitäten aller meldenden Labore|
+|capacities_weekly_theoretically|Natürliche Zahl|`≥0` und `NA`|Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
+|capacities_weeklyweek_actually|Natürliche Zahl|`≥0` und `NA`|Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
+|laboratories_capacities|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
+|laboratories_samplebacklog|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben|
 |samplebacklog|Natürliche Zahl|`≥0` und `NA`|Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden|
 
 #### Formatierung  
