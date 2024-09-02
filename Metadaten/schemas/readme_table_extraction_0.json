@@ -4,7 +4,7 @@
       "name": "date",
       "type": "date",
       "description": "Berichtswoche im ISO-8601 Format",
-      "format": "%Y-W%U"
+      "format": "%Y-W%W"
     },
     {
       "name": "tests_total",
