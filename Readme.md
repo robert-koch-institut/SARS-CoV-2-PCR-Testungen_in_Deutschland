@@ -114,21 +114,24 @@ Die Daten bilden einen wöchenlichen Stand (Sonntag, 24:00 Uhr) ab. Die Daten we
 
 Die SARS-CoV-2-PCR-Testungen auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
    
-| Variable | Typ | Ausprägungen | Beschreibung |
-| --- | --- | --- | --- |
-|date|Datum |`JJJJ-Www`|Berichtswoche im ISO-8601 Format|
-|tests_total|Natürliche Zahl|`≥0`|Gesamtzahl der in der zurückliegende Woche gemeldeten SARS-SARS-CoV-2-PCR-Testungen|
-|tests_total_accumulated|Natürliche Zahl|`≥0`|Gesamtzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-PCR-Testungen|
-|tests_positive|Natürliche Zahl|`≥0`|Anzahl der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen|
-|tests_positive_accumulated|Natürliche Zahl|`≥0`|Anzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-positiven PCR-Testungen|
-|tests_positive_ratio|Rationale Zahl|`≥0.0000`|Anteil der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen an allen der in der zurückliegende Woche gemeldeten SARS-CoV-2-PCR-Testungen|
-|laboratories_tests|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben|
-|capacities_daily|Natürliche Zahl|`≥0` und `NA`|Summe der täglichen PCR-Testkapazitäten aller meldenden Labore|
-|capacities_weekly_theoretically|Natürliche Zahl|`≥0` und `NA`|Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|capacities_weeklyweek_actually|Natürliche Zahl|`≥0` und `NA`|Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|laboratories_capacities|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.|
-|laboratories_samplebacklog|Natürliche Zahl|`≥0` und `NA`|Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben|
-|samplebacklog|Natürliche Zahl|`≥0` und `NA`|Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden|
+| Variable                        | Typ     | Ausprägungen                       | Beschreibung                                                                                                                                                      |
+|:--------------------------------|:--------|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date                            | date    | Format: `YYYY-Www`                 | Berichtswoche im ISO-8601 Format                                                                                                                                  |
+| tests_total                     | integer | Minimum: 0                         | Gesamtzahl der in der zurückliegende Woche gemeldeten SARS-SARS-CoV-2-PCR-Testungen                                                                               |
+| tests_total_accumulated         | integer | Minimum: 0                         | Gesamtzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-PCR-Testungen                                                                                           |
+| tests_positive                  | integer | Minimum: 0                         | Anzahl der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                              |
+| tests_positive_accumulated      | integer | Minimum: 0                         | Anzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                                     |
+| tests_positive_ratio            | number  | Minimum: 0                         | Anteil der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen an allen der in der zurückliegende Woche gemeldeten SARS-CoV-2-PCR-Testungen |
+| laboratories_tests              | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben                                                                         |
+| capacities_daily                | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Summe der täglichen PCR-Testkapazitäten aller meldenden Labore                                                                                                    |
+| capacities_weekly_theoretically | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
+| capacities_weeklyweek_actually  | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
+| laboratories_capacities         | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.                            |
+| laboratories_samplebacklog      | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben                                                                       |
+| samplebacklog                   | integer | Fehlende Werte: `NA`<br>Minimum: 0 | Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden                                                             |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json`](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json).
+
 
 #### Formatierung  
 
