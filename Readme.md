@@ -114,6 +114,12 @@ Die Daten bilden einen wöchenlichen Stand (Sonntag, 24:00 Uhr) ab. Die Daten we
 
 Die SARS-CoV-2-PCR-Testungen auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
    
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "SARS-CoV-2-PCR-Testungen_in_Deutschland", "lang": "de"} -->
+
+Die Datei [SARS-CoV-2-PCR-Testungen_in_Deutschland.csv](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/SARS-CoV-2-PCR-Testungen_in_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json) hinterlegt:
+> [frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable                        | Typ     | Ausprägungen                      | Beschreibung                                                                                                                                                      |
 |:--------------------------------|:--------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | date                            | date    | Format: `YYYY-Www`                | Berichtswoche im ISO-8601 Format                                                                                                                                  |
@@ -130,11 +136,14 @@ Die SARS-CoV-2-PCR-Testungen auf Bundesebene enthalten die in der folgenden Tabe
 | laboratories_samplebacklog      | integer | Werte: ≥0<br>Fehlende Werte: `NA` | Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben                                                                       |
 | samplebacklog                   | integer | Werte: ≥0<br>Fehlende Werte: `NA` | Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden                                                             |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json`](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json).
+
 
 
 #### Formatierung  
