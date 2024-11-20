@@ -111,8 +111,6 @@ Die Daten bilden einen wöchenlichen Stand (Sonntag, 24:00 Uhr) ab. Die Daten we
 > [SARS-CoV-2-PCR-Testungen_in_Deutschland.xlsx](SARS-CoV-2-PCR-Testungen_in_Deutschland.xlsx)
 
 #### Variablen und Variablenausprägungen  
-
-Die SARS-CoV-2-PCR-Testungen auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
    
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "SARS-CoV-2-PCR-Testungen_in_Deutschland", "lang": "de"} -->
 
@@ -139,11 +137,6 @@ Die Datei [SARS-CoV-2-PCR-Testungen_in_Deutschland.csv](https://github.com/rober
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
 
 
 #### Formatierung  
