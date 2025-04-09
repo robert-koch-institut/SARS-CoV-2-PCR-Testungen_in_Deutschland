@@ -18,7 +18,7 @@ Seestraße 10
 [Stefan Albrecht] (Datenerhebung)  
 
 **Fachgebeit MF 4 | Fach- und Forschungsdatenmanagement**   
-[Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
+[Hannes Wünsche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
 
 ---
 
