@@ -18,7 +18,7 @@ Seestraße 10
 [Stefan Albrecht] (Datenerhebung)  
 
 **Fachgebeit MF 4 | Fach- und Forschungsdatenmanagement**   
-[Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
+[Hannes Wünsche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
 
 ---
 
@@ -35,17 +35,17 @@ Im Rahmen der Bewältigung der COVID-19-Pandemie spielt die Diagnostik hinsichtl
 
 Zur Erfassung der SARS-CoV-2-Testzahlen werden deutschlandweit Daten von Universitätskliniken, Forschungseinrichtungen sowie klinischen und ambulanten Laboren wöchentlich am RKI zusammengeführt. Die zugrundeliegenden Daten werden an das Robert Koch-Institut (RKI) auf  freiwilliger Basis übermittelt. Die Übermittlung erfolgt aus verschiedenen Quellen: einer Online-Umfrage des RKIs mittels der Erhebungssoftware VOXCO (RKI-Testlaborabfrage), dem Netzwerk für respiratorische Viren (RespVir), der am RKI etablierten Antibiotika-Resistenz-Surveillance (ARS) sowie über eine Umfrage eines labormedizinischen Berufsverbandes. Zusätzlich werden über die RKI-Testlaborabfrage und die Abfrage eines Laborverbunds die maximalen Testkapazitäten der Labore für die kommende Kalenderwoche (KW) erfasst.  
 
-Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/abt3_node.html) initiiert, Janna Seifried betreut die Erhebung als Projektleitung.  Neben Abteilung 3 sind [Abteilung 1 | Infektionskrankheiten](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt1/abt1_node.html), [Abteilung 2 | Epidemiologie und Gesundheitsmonitoring](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/abt2_node.html) und Fachgebiet [ZBS 3  | Biologische Toxine](https://www.rki.de/DE/Content/Institut/OrgEinheiten/ZBS/ZBS3/zbs3_node.html), als Verantwortliche für die verschiedenen Erfssungssysteme, beteiligt. Ergebnisse aus der Testzahlerfassung werden jeweils im Krisenstab vorgestellt und diskutiert und fließen in die Lagebewertung mit ein. Inhaltiche Fragen zur Testzahlerfssung können an das Funktionspostfach [Testzahlerfassung@rki.de](mailto:Testzahlerfassung@rki.de) gerichtet werden.
+Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/abt3-infektionsepidemiologie-node.html) initiiert, Janna Seifried betreut die Erhebung als Projektleitung.  Neben Abteilung 3 sind [Abteilung 1 | Infektionskrankheiten](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-1/abt1-infektionskrankheiten-node.html), [Abteilung 2 | Epidemiologie und Gesundheitsmonitoring](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/abt2-epidemiologie-und-gesundheitsmonitoring-node.html) und Fachgebiet [ZBS 3  | Biologische Toxine](https://www.rki.de/DE/Institut/Organisation/Abteilungen/ZBS/ZBS3/zbs3_org.html?templateQueryString=biologische+toxine), als Verantwortliche für die verschiedenen Erfssungssysteme, beteiligt. Ergebnisse aus der Testzahlerfassung werden jeweils im Krisenstab vorgestellt und diskutiert und fließen in die Lagebewertung mit ein. Inhaltiche Fragen zur Testzahlerfssung können an das Funktionspostfach [Testzahlerfassung@rki.de](mailto:Testzahlerfassung@rki.de) gerichtet werden.
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Erhebung und Aufbereitung der Daten  
 #### Gegenstand  
-Für eine labordiagnostische Untersuchung zur Klärung des Verdachts auf eine Infektion mit dem SARS-CoV-2 Virus wurden PCR-Nachweissysteme entwickelt und validiert. Sie gelten als „Goldstandard“ für die Diagnostik. In der [Falldefinition](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.html) des RKI zur Coronavirus-Krankheit-2019 ist der Nachweis durch PCR-Testung (Nukleinsäurenachweis) einer der drei relvanten labordiagnostischen Nachweisverfahen. Nähere Angaben sind auch über die [Webseite der WHO zu Coronaviren](https://www.who.int/publications/i/item/10665-331501) bzw. der [Foundation for Innovative New Diagnostics](https://www.finddx.org/covid-19/pipeline/) verfügbar. Es steht eine Reihe von kommerziellen Testsystemen mit hoher Spezifität und unterschiedlicher Bearbeitungsdauer zur Verfügung. 
+Für eine labordiagnostische Untersuchung zur Klärung des Verdachts auf eine Infektion mit dem SARS-CoV-2 Virus wurden PCR-Nachweissysteme entwickelt und validiert. Sie gelten als „Goldstandard“ für die Diagnostik. In der [Falldefinition](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/Downloads/COVID-19.pdf) des RKI zur Coronavirus-Krankheit-2019 ist der Nachweis durch PCR-Testung (Nukleinsäurenachweis) einer der drei relvanten labordiagnostischen Nachweisverfahen. Nähere Angaben sind auch über die [Webseite der WHO zu Coronaviren](https://www.who.int/publications/i/item/10665-331501) bzw. der [Foundation for Innovative New Diagnostics](https://www.finddx.org/covid-19/pipeline/) verfügbar. Es steht eine Reihe von kommerziellen Testsystemen mit hoher Spezifität und unterschiedlicher Bearbeitungsdauer zur Verfügung. 
 
 Weiter Informationen zur PCR-Testung und Qualitätssicherung könne der Website des RKI entnommen werden:
 
->  [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html)
+>  [https://www.rki.de/DE/Themen/Infektionskrankheiten/Infektionskrankheiten-A-Z/C/COVID-19/Diagnostik-Hinweise.html](https://www.rki.de/DE/Themen/Infektionskrankheiten/Infektionskrankheiten-A-Z/C/COVID-19/Diagnostik-Hinweise.html)
 
 
 #### Datenerhebung  
@@ -146,27 +146,62 @@ Die Daten sind im Datensatz als kommaseparierte .csv und .xlsx Datei enthalten. 
 - Zeichensatz: UTF-8
 - .csv Trennzeichen: Komma ","
 
+
+<!-- FOOTER_START: {"lang": "de"} -->
+
+
+
 ### Metadaten  
 
-Zur Erhöhung der Auffindbarkeit, sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadaten-Ordner hinterlegt:
+Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
-> [Metadaten/](/Metadaten/)  
+> [Metadaten/](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.   
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+ 
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/zenodo.json)  
 
-> [Metadaten/zenodo.json](/Metadaten/zenodo.json)  
+In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch der Datenstand in folgendem Format enthalten (Beispiel):  
+
+```
+  "dates": [
+    {
+      "start": "2023-09-11T15:00:21+02:00",
+      "end": "2023-09-11T15:00:21+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+```    
+
+
+Zusätzlich beschreiben wir tabellarische Daten mithilfe des [Data Package Standards](https://datapackage.org/).
+Ein Data Package ist eine strukturierte Sammlung von Daten und zugehörigen Metadaten, die den Austausch und die Wiederverwendung von Daten erleichtert. Es besteht aus einer datapackage.json-Datei, die zentrale Informationen wie die enthaltenen Ressourcen, ihre Formate und Schema-Definitionen beschreibt.
+
+Der Data Package Standard wird von der [Open Knowledge Foundation](https://okfn.org/) bereitgestellt und ist ein offenes Format, das eine einfache, maschinenlesbare Beschreibung von Datensätzen ermöglicht.
+
+Die Liste der in diesem Repository enthaltenen Daten ist in folgender Datei hinterlegt:
+
+> [datapackage.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/tree/main/datapackage.json)
+
+Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://datapackage.org/standard/table-schema/), das die Struktur der Tabellen beschreibt, einschließlich Spaltennamen, Datentypen und Validierungsregeln. Diese Schema-Dateien finden sich unter:
+
+> [Metadaten/schemas/](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/tree/main/Metadaten/schemas) 
+
 
 
 ## Hinweise zur Nachnutzung der Daten  
 
-Offene Forschungsdaten des RKI werden auf [GitHub.com]([http://GitHub.com/), [Zenodo.org]([http://Zenodo.org/) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)
-- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)
-- [https://edoc.rki.de](https://edoc.rki.de/)
-
+- https://zenodo.org/communities/robertkochinstitut  
+- https://github.com/robert-koch-institut  
+- https://gitlab.opencode.de/robert-koch-institut  
+- https://edoc.rki.de/  
+ 
 ### Lizenz  
 
-Der Datensatz "SARS-CoV-2-PCR-Testungen in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International]([https://creativecommons.org/licenses/by-sa/4.0/legalcode.de).
+Der Datensatz "SARS-CoV-2-PCR-Testungen in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](/LICENSE) bzw. [LIZENZ](/LIZENZ) Datei des Datensatzes.
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
+<!-- FOOTER_END -->
