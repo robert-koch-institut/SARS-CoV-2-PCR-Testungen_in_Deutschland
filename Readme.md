@@ -1,30 +1,50 @@
-Datensatzdokumentation
-# SARS-CoV-2-PCR-Testungen in Deutschland  
+<!-- HEADER_START: {"lang": "de"} -->
 
-[Robert Koch-Institut](https://rki.de)
-Seestraße 10  
-13353 Berlin  
 
-**Abteilung 3 | Infektionsepidemiologie**  
-[Dr. Janna Seifried](https://orcid.org/0000-0002-7015-6647) (Projektleitung)  
+Dokumentation  
+# SARS-CoV-2-PCR-Testungen in Deutschland
 
-**Abteilung 1  | Infektionskrankheiten**  
-[Dr. Sindy Böttcher](https://orcid.org/0000-0002-7521-093X) (Datenerhebung)  
+<br> 
+<br> 
+<br> 
 
-**Fachgebiet ZBS 3  | Biologische Toxine**  
-[Dr. Daniel Stern](https://orcid.org/0000-0001-9057-4283) (Datenmanagement)  
+[**Robert Koch-Institut**](https://www.rki.de/)
 
-**Abteilung 2 | Epidemiologie und Gesundheitsmonitoring**  
-[Stefan Albrecht] (Datenerhebung)  
+<br> 
 
-**Fachgebeit MF 4 | Fach- und Forschungsdatenmanagement**   
-[Hannes Wünsche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
+**Beitragende**   
+[Janna Seifried](https://orcid.org/0000-0002-7015-6647)&sup1;, [Sindy Böttcher](https://orcid.org/0000-0002-7521-093X)&sup2;, [Daniel Stern](https://orcid.org/0000-0001-9057-4283)&sup3;, Stefan Albrecht&#8308;, & [Hannes Wünsche](https://orcid.org/0000-0002-8837-0326)&#8309;
 
----
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Abteilung 3](https://www.rki.de/abt3)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Abteilung 1](https://www.rki.de/abt1)  
+&emsp;&emsp;&sup3; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet ZBS 3](https://www.rki.de/zbs3)  
+&emsp;&emsp;&#8308; [Robert Koch-Institut](https://www.rki.de/) | [Abteilung 2](https://www.rki.de/abt2)  
+&emsp;&emsp;&#8309; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet MF 4](https://www.rki.de/mf4)
 
-**Zitieren**
+<br> 
 
-Robert Koch-Institut (2023): SARS-CoV-2-PCR-Testungen in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.8069452](https://doi.org/10.5281/zenodo.8069452)
+**Zitieren**  
+Robert Koch-Institut. (2023). SARS-CoV-2-PCR-Testungen in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8069452](https://doi.org/10.5281/zenodo.8069452)
+
+<br>
+
+
+**Zusammenfassung**    
+Im Datensatz "SARS-CoV-2-PCR-Testungen in Deutschland" des Robert Koch-Instituts wurden wöchentlich aggregierte Angaben zur Anzahl und zum Positivanteil von PCR-Tests sowie zu Testkapazitäten deutscher Labore bereitgestellt. Die Datenerhebung basiert auf der Online-Erhebung VOXCO, dem Netzwerk für respiratorische Viren, der Antibiotika-Resistenz-Surveillance sowie einer Umfrage eines labormedizinischen Berufsverbands. Damit unterstützte der Datensatz die Einschätzung der diagnostischen und epidemiologischen Lage zur COVID-19-Pandemie in Deutschland.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
 
 
 ## Informationen zum Datensatz und Entstehungskontext
@@ -35,9 +55,9 @@ Im Rahmen der Bewältigung der COVID-19-Pandemie spielt die Diagnostik hinsichtl
 
 Zur Erfassung der SARS-CoV-2-Testzahlen werden deutschlandweit Daten von Universitätskliniken, Forschungseinrichtungen sowie klinischen und ambulanten Laboren wöchentlich am RKI zusammengeführt. Die zugrundeliegenden Daten werden an das Robert Koch-Institut (RKI) auf  freiwilliger Basis übermittelt. Die Übermittlung erfolgt aus verschiedenen Quellen: einer Online-Umfrage des RKIs mittels der Erhebungssoftware VOXCO (RKI-Testlaborabfrage), dem Netzwerk für respiratorische Viren (RespVir), der am RKI etablierten Antibiotika-Resistenz-Surveillance (ARS) sowie über eine Umfrage eines labormedizinischen Berufsverbandes. Zusätzlich werden über die RKI-Testlaborabfrage und die Abfrage eines Laborverbunds die maximalen Testkapazitäten der Labore für die kommende Kalenderwoche (KW) erfasst.  
 
-Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/abt3-infektionsepidemiologie-node.html) initiiert, Janna Seifried betreut die Erhebung als Projektleitung.  Neben Abteilung 3 sind [Abteilung 1 | Infektionskrankheiten](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-1/abt1-infektionskrankheiten-node.html), [Abteilung 2 | Epidemiologie und Gesundheitsmonitoring](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/abt2-epidemiologie-und-gesundheitsmonitoring-node.html) und Fachgebiet [ZBS 3  | Biologische Toxine](https://www.rki.de/DE/Institut/Organisation/Abteilungen/ZBS/ZBS3/zbs3_org.html?templateQueryString=biologische+toxine), als Verantwortliche für die verschiedenen Erfssungssysteme, beteiligt. Ergebnisse aus der Testzahlerfassung werden jeweils im Krisenstab vorgestellt und diskutiert und fließen in die Lagebewertung mit ein. Inhaltiche Fragen zur Testzahlerfssung können an das Funktionspostfach [Testzahlerfassung@rki.de](mailto:Testzahlerfassung@rki.de) gerichtet werden.
+Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https://www.rki.de/abt3) initiiert, Janna Seifried betreut die Erhebung als Projektleitung.  Neben Abteilung 3 sind [Abteilung 1 | Infektionskrankheiten](https://www.rki.de/abt1), [Abteilung 2 | Epidemiologie und Gesundheitsmonitoring](https://www.rki.de/abt2) und Fachgebiet [ZBS 3  | Biologische Toxine](https://www.rki.de/zbs3), als Verantwortliche für die verschiedenen Erfssungssysteme, beteiligt. Ergebnisse aus der Testzahlerfassung werden jeweils im Krisenstab vorgestellt und diskutiert und fließen in die Lagebewertung mit ein. Inhaltiche Fragen zur Testzahlerfssung können an das Funktionspostfach [Testzahlerfassung@rki.de](mailto:Testzahlerfassung@rki.de) gerichtet werden.
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement]([https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Erhebung und Aufbereitung der Daten  
 #### Gegenstand  
