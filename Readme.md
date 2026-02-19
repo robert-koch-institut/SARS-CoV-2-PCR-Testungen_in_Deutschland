@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # SARS-CoV-2-PCR-Testungen in Deutschland
 
 <br> 
@@ -24,21 +25,24 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Robert Koch-Institut. (2023). SARS-CoV-2-PCR-Testungen in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8069452](https://doi.org/10.5281/zenodo.8069452)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Im Datensatz "SARS-CoV-2-PCR-Testungen in Deutschland" des Robert Koch-Instituts wurden wöchentlich aggregierte Angaben zur Anzahl und zum Positivanteil von PCR-Tests sowie zu Testkapazitäten deutscher Labore bereitgestellt. Die Datenerhebung basiert auf der Online-Erhebung VOXCO, dem Netzwerk für respiratorische Viren, der Antibiotika-Resistenz-Surveillance sowie einer Umfrage eines labormedizinischen Berufsverbands. Damit unterstützte der Datensatz die Einschätzung der diagnostischen und epidemiologischen Lage zur COVID-19-Pandemie in Deutschland.
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -60,8 +64,9 @@ Die Testzahlerfassung wurde durch [Abteilung 3 | Infektionsepidemiologie](https:
 Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement können an das Open Data Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Erhebung und Aufbereitung der Daten  
+
 #### Gegenstand  
-Für eine labordiagnostische Untersuchung zur Klärung des Verdachts auf eine Infektion mit dem SARS-CoV-2 Virus wurden PCR-Nachweissysteme entwickelt und validiert. Sie gelten als „Goldstandard“ für die Diagnostik. In der [Falldefinition](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/Downloads/COVID-19.pdf) des RKI zur Coronavirus-Krankheit-2019 ist der Nachweis durch PCR-Testung (Nukleinsäurenachweis) einer der drei relvanten labordiagnostischen Nachweisverfahen. Nähere Angaben sind auch über die [Webseite der WHO zu Coronaviren](https://www.who.int/publications/i/item/10665-331501) bzw. der [Foundation for Innovative New Diagnostics](https://www.finddx.org/covid-19/pipeline/) verfügbar. Es steht eine Reihe von kommerziellen Testsystemen mit hoher Spezifität und unterschiedlicher Bearbeitungsdauer zur Verfügung. 
+Für eine labordiagnostische Untersuchung zur Klärung des Verdachts auf eine Infektion mit dem SARS-CoV-2 Virus wurden PCR-Nachweissysteme entwickelt und validiert. Sie gelten als "Goldstandard" für die Diagnostik. In der [Falldefinition](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/Downloads/COVID-19.pdf) des RKI zur Coronavirus-Krankheit-2019 ist der Nachweis durch PCR-Testung (Nukleinsäurenachweis) einer der drei relvanten labordiagnostischen Nachweisverfahen. Nähere Angaben sind auch über die [Webseite der WHO zu Coronaviren](https://www.who.int/publications/i/item/10665-331501) bzw. der [Foundation for Innovative New Diagnostics](https://www.finddx.org/covid-19/) verfügbar. Es steht eine Reihe von kommerziellen Testsystemen mit hoher Spezifität und unterschiedlicher Bearbeitungsdauer zur Verfügung. 
 
 Weiter Informationen zur PCR-Testung und Qualitätssicherung könne der Website des RKI entnommen werden:
 
@@ -69,6 +74,7 @@ Weiter Informationen zur PCR-Testung und Qualitätssicherung könne der Website 
 
 
 #### Datenerhebung  
+
 ##### VOXCO (RKI-Testlaborabfrage)   
 
 Die Datenerhebung zu  SARS-CoV-2-PCR-Testungen erfolgt über die Online-Erhebungssoftware VOXCO des RKI. Bei Voxco handelt es sich um eine Software, über die Fragebögen programmiert und online bereitgestellt werden können. Erhobene Daten wer auf  Servern des RKI gespeichert. Die Software ist sowohl von den Datenschutzbeauftragten, Informationssicherheitsbeauftragten als auch dem Bundesamt für Sicherheit in der Informationstechnik (https://www.bsi.bund.de/) geprüft und abgenommen.
@@ -83,7 +89,7 @@ Der Prozess der Testzahlerfassung erfolgte zweistufig:
 
 Neben teilweisen Zusatzabfragen (z.B. nach Auslastung, Kapazitätsgrenzen, Variantenabfragen...), wird standardmäßig jedes Labor nach der Anzahl der durchgeführten PCR-Testungen, sowie deren Positivenanteile abgefragt. Der Berichtszeitraum ist bei jeder Abfrage frei wählbar, sodass auch Nachmeldungen/Korrekturen und rückwirkende Meldungen möglich sind. Können Labore eine Abfrage nicht beantworten, so können die entsprechenden Eingabefelder leer gelassen werden.
 
-![VOXCO Eingabemaske](/.github/pictures/VOXCO_Eingabemaske.png)
+![VOXCO Eingabemaske](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/.github/pictures/VOXCO_Eingabemaske.png?raw=true)
 
 Das Netzwerk Respiratorische Viren wurde 2009 auf Initiative der Abteilung "Klinische Virologie" der Gesellschaft für Virologie (GFV) hin gegründet zielt darauf ab, interessierte Ärzte und Wissenschaftler über geographische und organisatorische Grenzen hinweg über die jeweils aktuelle epidemische Ausbreitung von Infektionskrankheiten und deren Krankheitserregern zu informieren. Im Rahmen der Pandemie wurde eine Erweiterung auf SARS-CoV-2-Nachweise etabliert. Die erhobenen Daten (Anzahl der positiven und negativen SARS-CoV-2-Teste) werden dem RKI für die Testzahlerfassung bereitgestellt. 
 
@@ -122,7 +128,7 @@ Der Datensatz enthält Daten zu den SARS-CoV-2-PCR-Testungen meldender Labore in
 - Lizenzdatei mit der Nutzungslizenz des Datensatzes in Deutsch und Englisch
 - Datensatzdokumentation in deutscher Sprache
 - Metadaten zur automatisierten Weiterverarbeitung
-    
+
 ### Daten zu SARS-CoV-2-PCR-Testungen in Deutschland  
 
 Die Daten bilden einen wöchenlichen Stand (Sonntag, 24:00 Uhr) ab. Die Daten werden alle zwei Wochen neu erzeugt, dieser Datenstand ersetzt die vorherigen Daten.
@@ -135,24 +141,25 @@ Die Daten bilden einen wöchenlichen Stand (Sonntag, 24:00 Uhr) ab. Die Daten we
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "SARS-CoV-2-PCR-Testungen_in_Deutschland", "lang": "de"} -->
 
 Die Datei [SARS-CoV-2-PCR-Testungen_in_Deutschland.csv](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/SARS-CoV-2-PCR-Testungen_in_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/tableschema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json) hinterlegt:
+
 > [tableschema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/schemas/tableschema_SARS-CoV-2-PCR-Testungen_in_Deutschland.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable                        | Typ     | Ausprägungen                        | Beschreibung                                                                                                                                                      |
-|:--------------------------------|:--------|:------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| date                            | date    | Format: `YYYY-Www`                  | Berichtswoche im ISO-8601 Format                                                                                                                                  |
-| tests_total                     | integer | Werte: `≥0`                         | Gesamtzahl der in der zurückliegende Woche gemeldeten SARS-SARS-CoV-2-PCR-Testungen                                                                               |
-| tests_total_accumulated         | integer | Werte: `≥0`                         | Gesamtzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-PCR-Testungen                                                                                           |
-| tests_positive                  | integer | Werte: `≥0`                         | Anzahl der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                              |
-| tests_positive_accumulated      | integer | Werte: `≥0`                         | Anzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                                     |
-| tests_positive_ratio            | number  | Werte: `≥0`                         | Anteil der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen an allen der in der zurückliegende Woche gemeldeten SARS-CoV-2-PCR-Testungen |
-| laboratories_tests              | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben                                                                         |
-| capacities_daily                | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Summe der täglichen PCR-Testkapazitäten aller meldenden Labore                                                                                                    |
-| capacities_weekly_theoretically | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
-| capacities_weeklyweek_actually  | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
-| laboratories_capacities         | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.                            |
-| laboratories_samplebacklog      | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben                                                                       |
-| samplebacklog                   | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden                                                             |
+| Variable                            | Typ     | Ausprägungen                           | Beschreibung                                                                                                                                                      |
+|:------------------------------------|:--------|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date                                | date    | Format: `YYYY-Www`                     | Berichtswoche im ISO-8601 Format                                                                                                                                  |
+| tests_total                         | integer | Werte: `≥0`                            | Gesamtzahl der in der zurückliegende Woche gemeldeten SARS-SARS-CoV-2-PCR-Testungen                                                                               |
+| tests_total_accumulated             | integer | Werte: `≥0`                            | Gesamtzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-PCR-Testungen                                                                                           |
+| tests_positive                      | integer | Werte: `≥0`                            | Anzahl der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                              |
+| tests_positive_accumulated          | integer | Werte: `≥0`                            | Anzahl der seit Erhebungsbeginn gemeldeten SARS-CoV-2-positiven PCR-Testungen                                                                                     |
+| tests_positive_ratio                | number  | Werte: `≥0`                            | Anteil der in der zurückliegende Woche gemeldeten SARS-CoV-2-positiven PCR-Testungen an allen der in der zurückliegende Woche gemeldeten SARS-CoV-2-PCR-Testungen |
+| laboratories_tests                  | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Anzahl der Labore die Angeben zur Anzahl ihrer SARS-CoV-2-PCR-Testungen übermittelt haben                                                                         |
+| capacities_daily                    | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Summe der täglichen PCR-Testkapazitäten aller meldenden Labore                                                                                                    |
+| capacities_weekly_<br>theoretically | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Summe der theoretischen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
+| capacities_weeklyweek_<br>actually  | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Summe der tatsächlichen wöchentlichen PCR-Testkapazitäten aller meldenden Labore. Angabe prospektiv für die der Berichtswoche folgenden Woche.                    |
+| laboratories_capacities             | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Anzahl der Labore die Angeben zur  PCR-Testkapazitäten übermittelt haben. Angabe prospektiv für die der Berichtswoche folgenden Woche.                            |
+| laboratories_samplebacklog          | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Anzahl der Labore die Angeben zur Anzahl an SARS-CoV-2-PCR-Probenrückstau übermittelt haben                                                                       |
+| samplebacklog                       | integer | Werte: `≥0`<br>Fehlende Werte:<br>`NA` | Anzahl an Proben die in der zurückliegende Woche als im SARS-CoV-2-PCR-Probenrückstau gemeldet wurden                                                             |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -161,15 +168,13 @@ Die Datei [SARS-CoV-2-PCR-Testungen_in_Deutschland.csv](https://github.com/rober
 
 #### Formatierung  
 
-Die Daten sind im Datensatz als kommaseparierte .csv und .xlsx Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma ",".
+Die Daten sind im Datensatz als kommaseparierte .csv und .xlsx Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma `,`.
 
 - Zeichensatz: UTF-8
-- .csv Trennzeichen: Komma ","
+- .csv Trennzeichen: Komma `,`
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -177,7 +182,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/SARS-CoV-2-PCR-Testungen_in_Deutschland/blob/main/Metadaten/zenodo.json)  
 
@@ -188,8 +193,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -214,11 +219,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "SARS-CoV-2-PCR-Testungen in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
